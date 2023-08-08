@@ -1,4 +1,4 @@
-"Glucose_Charting: Automating Glucose Reading Data Extraction"
+### Glucose_Charting: Automating Glucose Reading Data Extraction
 
 This Git repository contains a Python script that utilizes Selenium and BeautifulSoup to automate the extraction of glucose reading data from a patient's health portal. The script interacts with the portal, logs in, navigates through pages, and scrapes glucose readings along with corresponding dates. The extracted data is then processed and documented in a text file.
 
